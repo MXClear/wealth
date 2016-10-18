@@ -1,8 +1,8 @@
 {
     "default": {
         "activatedMode": 7,
-        "timeBeginning": 120,
-        "installedBeginning": 1,
+        "timeBeginning": 36000,
+        "installedBeginning": 2,
         "timeInterval": 2,
         "maxPushCount": 10000,
         "wealth": [
