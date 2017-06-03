@@ -1,0 +1,16 @@
+{
+    "default": {
+        "wealth": [
+            {
+                "ad": "Admob",
+                "quantity": 0,
+                "id": ""
+            },
+            {
+                "ad": "StartApp",
+                "quantity": 0,
+                "id": "106701156/206424228"
+            }
+        ]
+    }
+}
