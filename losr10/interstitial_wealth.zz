@@ -1,6 +1,6 @@
 {
     "default": {
-        "activatedMode": 7,
+        "activatedMode": 0,
         "timeBeginning": 72000,
         "installedBeginning": 3,
         "timeInterval": 2,
