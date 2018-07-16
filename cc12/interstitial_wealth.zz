@@ -2,14 +2,14 @@
 {
     "default": {
         "activatedMode": 7,
-        "timeBeginning": 36000,
+        "timeBeginning": 1,
         "installedBeginning": 1,
         "timeInterval": 2,
         "maxPushCount": 10000,
         "wealth": [
             {
                 "ad": "Admob",
-                "quantity": 0,
+                "quantity": 100,
                 "id": "ca-app-pub-3302329739179157/8446773422"
             },
             {
