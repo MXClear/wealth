@@ -1,0 +1,38 @@
+{
+  "native": [
+    {
+      "ad": "Admob",
+      "quantity": 0,
+      "id": ""
+    },
+    {
+      "ad": "Facebook",
+      "quantity": 100,
+      "id": "315499822592568_315500082592542"
+    }
+  ],
+  "banner": [
+    {
+      "ad": "Admob",
+      "quantity": 0,
+      "id": ""
+    },
+    {
+      "ad": "Facebook",
+      "quantity": 0,
+      "id": ""
+    }
+  ],
+  "interstitial": [
+    {
+      "ad": "Admob",
+      "quantity": 0,
+      "id": ""
+    },
+    {
+      "ad": "Facebook",
+      "quantity": 0,
+      "id": ""
+    }
+  ]
+}
