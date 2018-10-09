@@ -1,0 +1,11 @@
+{
+	"app_id": "1107798625",
+	"banner_id": "",
+	"splash_id": "3070149079719068",
+	"interstitial_id": "6090146059416190",
+	"native_express_id": "5060642089316097",
+	"banner_enabled": false,
+	"splash_enabled": true,
+	"interstitial_enabled": true,
+	"native_express_enabled": true
+}
