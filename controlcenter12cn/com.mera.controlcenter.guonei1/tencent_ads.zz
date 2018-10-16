@@ -1,0 +1,13 @@
+{
+	"app_id": "",
+	"banner_id": "",
+	"splash_id": "",
+	"interstitial_id": "",
+	"native_express_id": "",
+	"native_pos_id": "",
+	"banner_enabled": false,
+	"splash_enabled": false,
+	"interstitial_enabled": false,
+	"native_express_enabled": false,
+	"native_pos_enabled": false
+}
