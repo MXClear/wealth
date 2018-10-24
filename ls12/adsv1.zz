@@ -1,0 +1,44 @@
+{
+  "native": [
+    {
+      "ad": "Admob",
+      "quantity": 100,
+      "appid": "ca-app-pub-3302329739179157~5013410617",
+      "id": "ca-app-pub-3302329739179157/8673454025"
+    },
+    {
+      "ad": "Facebook",
+      "quantity": 0,
+      "appid": "",
+      "id": ""
+    }
+  ],
+  "banner": [
+    {
+      "ad": "Admob",
+      "quantity": 0,
+      "appid": "",
+      "id": ""
+    },
+    {
+      "ad": "Facebook",
+      "quantity": 0,
+      "appid": "",
+      "id": ""
+    }
+  ],
+  "interstitial": [
+    {
+      "ad": "Admob",
+      "quantity": 0,
+      "appid": "",
+      "id": ""
+    },
+    {
+      "ad": "Facebook",
+      "quantity": 0,
+      "appid": "",
+      "id": ""
+    }
+  ]
+}
