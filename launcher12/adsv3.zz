@@ -1,0 +1,82 @@
+{
+  "lockscreen": [
+    {
+      "ad": "Admob",
+      "quantity": 0,
+      "max": 0,
+      "appid": "",
+      "id": ""
+    },
+    {
+      "ad": "Facebook",
+      "quantity": 0,
+      "max": 0,
+      "appid": "",
+      "id": ""
+    }
+  ],
+  "search": [
+    {
+      "ad": "Admob",
+      "quantity": 100,
+      "max": 0,
+      "appid": "ca-app-pub-3302329739179157~5080267958",
+      "id": "ca-app-pub-3302329739179157/6287812927"
+    },
+    {
+      "ad": "Facebook",
+      "quantity": 0,
+      "max": 0,
+      "appid": "",
+      "id": ""
+    }
+  ],
+  "native": [
+    {
+      "ad": "Admob",
+      "quantity": 100,
+      "max": 20,
+      "appid": "ca-app-pub-3302329739179157~5080267958",
+      "id": "ca-app-pub-3302329739179157/6287812927"
+    },
+    {
+      "ad": "Facebook",
+      "max": 0,
+      "quantity": 0,
+      "appid": "",
+      "id": ""
+    }
+  ],
+  "banner": [
+    {
+      "ad": "Admob",
+      "quantity": 0,
+      "max": 0,
+      "appid": "",
+      "id": ""
+    },
+    {
+      "ad": "Facebook",
+      "quantity": 0,
+      "max": 0,
+      "appid": "",
+      "id": ""
+    }
+  ],
+  "interstitial": [
+    {
+      "ad": "Admob",
+      "appid": "",
+      "quantity": 0,
+      "max": 0,
+      "id": ""
+    },
+    {
+      "ad": "Facebook",
+      "appid": "",
+      "quantity": 0,
+      "max": 0,
+      "id": ""
+    }
+  ]
+}
