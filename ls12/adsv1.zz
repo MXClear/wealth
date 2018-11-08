@@ -2,7 +2,7 @@
   "native": [
     {
       "ad": "Admob",
-      "quantity": 100,
+      "quantity": 0,
       "appid": "ca-app-pub-3302329739179157~5013410617",
       "id": "ca-app-pub-3302329739179157/8673454025"
     },
