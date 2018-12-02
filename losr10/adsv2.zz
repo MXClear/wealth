@@ -2,7 +2,7 @@
   "native": [
     {
       "ad": "Admob",
-      "quantity": 0,
+      "quantity": 100,
       "appid": "ca-app-pub-3302329739179157~5184014008",
       "id": "ca-app-pub-3302329739179157/2514312119"
     },
@@ -16,7 +16,7 @@
   "native_11": [
     {
       "ad": "Admob",
-      "quantity": 0,
+      "quantity": 100,
       "appid": "ca-app-pub-3302329739179157~5184014008",
       "id": "ca-app-pub-3302329739179157/1208560188"
     },
