@@ -1,0 +1,43 @@
+{
+  "native": [
+    {
+      "app_id": "",
+      "unit_id": "",
+      "enabled": false,
+      "max_count": 5,
+      "name":"负一屏"
+    },
+    {
+      "app_id": "",
+      "unit_id": "",
+      "enabled": false,
+      "max_count": 3,
+      "name":"搜索"
+    },
+    {
+      "app_id": "",
+      "unit_id": "",
+      "enabled": false,
+      "max_count": 6,
+      "name":"清理"
+    }
+  ],
+  "banner": [
+  ],
+  "splash": [
+    {
+      "app_id": "",
+      "unit_id": "",
+      "enabled": false,
+      "max_count": 3
+    }
+  ],
+  "interstitial": [
+    {
+      "app_id": "",
+      "unit_id": "",
+      "enabled": false,
+      "max_count": 3
+    }
+  ]
+}
