@@ -16,7 +16,7 @@
   "native_11": [
     {
       "ad": "Admob",
-      "quantity": 100,
+      "quantity": 0,
       "appid": "ca-app-pub-3302329739179157~5184014008",
       "id": "ca-app-pub-3302329739179157/1208560188"
     },
@@ -44,7 +44,7 @@
   "interstitial": [
     {
       "ad": "Admob",
-      "quantity": 100,
+      "quantity": 0,
       "appid": "ca-app-pub-3302329739179157~5184014008",
       "id": "ca-app-pub-3302329739179157/7425402600"
     },
@@ -58,7 +58,7 @@
   "home_interstitial": [
     {
       "ad": "Admob",
-      "quantity": 100,
+      "quantity": 0,
       "appid": "ca-app-pub-3302329739179157~5184014008",
       "id": "ca-app-pub-3302329739179157/7425402600"
     },
